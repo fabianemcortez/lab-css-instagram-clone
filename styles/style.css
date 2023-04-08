@@ -17,4 +17,12 @@ body {
 
 .all {
   display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.img-botao {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
